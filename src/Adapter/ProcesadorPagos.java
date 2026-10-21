@@ -1,6 +1,5 @@
 package Adapter;
 
-public interface ProcesadorPagos{
+public interface ProcesadorPagos {
     boolean pagar(double montoPesos);
-
 }
